@@ -1,8 +1,8 @@
-# Assignment 6 - Public Key Cryptography
+# Public Key Cryptography Application
 
   
 
-This is a program assignment in which the objective is to implement and use public key cryptography to encrypt and decrypt files. There will be a keygen executable which is responsible for creating public and private key files for use in the encrypt and decrypt executables.
+This is a program in which the objective is to implement and use public key cryptography to encrypt and decrypt files. There will be a keygen executable which is responsible for creating public and private key files for use in the encrypt and decrypt executables.
   
 
 ## Installation
