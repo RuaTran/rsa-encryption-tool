@@ -67,8 +67,6 @@ OPTIONS
         -o outfile       output file to decrypt (default: stdout).
         -n privkey      file containing the private key (default: rsa.priv).
 ```
-
-```
   
 
 # Authored by @RuaTran for Fall 2021 at UCSC.
