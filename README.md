@@ -69,7 +69,7 @@ OPTIONS
 ```
   
 
-# Authored by @RuaTran for Fall 2021 at UCSC.
+## Authored by @RuaTran for Fall 2021 at UCSC.
 
 
 
